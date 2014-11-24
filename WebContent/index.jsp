@@ -10,7 +10,7 @@
 Hello_world
 this is git connection test
 
-sudo Please~~
+ap.git
 <body>
 
 </body>
