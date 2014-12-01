@@ -7,10 +7,7 @@
 <title>This is Test for Git</title>
 </head>
 
-Hello_world
-this is git connection test
-anasunamoon
-ap.git
+Git update test with issues #number
 <body>
 
 </body>
